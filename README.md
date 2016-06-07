@@ -1,2 +1,2 @@
 # HPCC-Platform
-Building HPCC Platform
+Building HPCC Platform...
